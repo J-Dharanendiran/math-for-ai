@@ -441,12 +441,9 @@ This shift from **values** to **structure** is the entire game.
 
 ---
 
-**Remember:** You're not learning algebra to pass a test. You're learning a language that describes how the modern world works.
-
-Every AI model, every data system, every optimization algorithm speaks this language.
-
-Now you're starting to speak it too.
+**Remember:** 
+>You're not learning algebra to pass a test. You're learning a language that describes how the modern world works.
+>Every AI model, every data system, every optimization algorithm speaks this language.
+>Now you're starting to speak it too.
 
 ---
-
-*This document was created to demystify algebra and show its direct path to modern AI. If you found it helpful, consider sharing it with others on their learning journey.*
