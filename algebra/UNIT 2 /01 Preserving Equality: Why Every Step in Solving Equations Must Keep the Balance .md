@@ -2,7 +2,6 @@
 
 ## Understanding Equations Through Balance Scales
 
-![Algebra Balance Scale](https://slideplayer.com/7498699/24/images/slide_1.jpg)
 
 ---
 
@@ -37,7 +36,6 @@ When you see a scale, you instantly understand:
 - ⚖️ **left side ≠ right side** → balance breaks
 - ✅ **both sides change equally** → balance stays
 
-![Balance Scale Visual](https://slideplayer.com/slide/16661816/96/images/5/Solving+Equations+Using+a+Balance+Strategy.jpg)
 
 ### 💡 So the hidden lesson is:
 
@@ -99,7 +97,6 @@ They are two different *views* of the same truth.
 
 > *That's why both sides must change together.*
 
-![Equation Balance](https://slideplayer.com/slide/16661816/96/images/6/Solving+Equations+Using+a+Balance+Strategy.jpg)
 
 **Key insight:** Every step in algebra is just translating the same truth into a simpler form.
 
