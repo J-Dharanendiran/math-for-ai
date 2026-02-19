@@ -2,6 +2,55 @@
 
 ---
 
+## 🎬 The Three Equations That Started the Confusion
+
+Look at these three linear equations. Each one produces a completely different kind of result.
+
+**Equation 1:**
+```
+-7x + 2 = -7x + 2
+```
+After simplifying, everything cancels and you end up with:
+```
+0 = 0
+```
+That means **infinitely many solutions.**
+
+---
+
+**Equation 2:**
+```
+-7x + 3 = -7x + 2
+```
+After simplifying, the `x` terms cancel and you get:
+```
+3 = 2
+```
+That is impossible. That means **no solution.**
+
+---
+
+**Equation 3:**
+```
+-7x + 3 = 2x + 2
+```
+After solving normally:
+```
+-9x = -1
+x = 1/9
+```
+That gives **exactly one solution.**
+
+---
+
+At this point, a natural question appears:
+
+> *Why did three equations that all look similar behave completely differently?*
+
+That is what this document is about to explain.
+
+---
+
 ## What This Concept Is Really About
 
 When you solve a linear equation, you are not just "finding x."
@@ -39,7 +88,7 @@ Let's resolve them one by one — properly.
 
 ---
 
-## ❓ Question 1: Where do the lines even come from?
+## ❓ Lines Are Just Linear Rules Made Visible
 
 You might be thinking: *"Nobody mentioned lines. I thought I was just solving an equation."*
 
@@ -51,7 +100,7 @@ Algebra and geometry are describing the same thing from two different angles.
 
 ---
 
-## ❓ Question 2: Why are we equating two different lines?
+## ❓ Equating Is Not Assuming — It Is Asking
 
 You might be thinking: *"They are two separate lines. Why would I force them to be equal? That feels like I'm making something up."*
 
@@ -73,7 +122,7 @@ We are not assuming equality. We are **searching** for where equality happens.
 
 ---
 
-## ❓ Question 3: Why does slope matter so much?
+## ❓ Why Slope Is the First Thing to Check
 
 Take any linear equation and rearrange it. You will always arrive here:
 
@@ -95,7 +144,7 @@ If slopes are the same, meaning `a = c`, then `(a - c) = 0`. The `x` term disapp
 
 ---
 
-## ❓ Question 4: Why are there only three outcomes — why not more?
+## ❓ Why No Fourth Outcome Can Ever Exist
 
 You might be thinking: *"There must be other possibilities I haven't thought of yet."*
 
@@ -113,7 +162,7 @@ There is no fourth option. Linear equations are structurally limited in this way
 
 ---
 
-## ❓ Question 5: What does it mean when I get `0 = 0` or `3 = 2` while solving?
+## ❓ What Those Weird Results Are Actually Telling You
 
 You might be thinking: *"These results feel weird. Did I make an error?"*
 
