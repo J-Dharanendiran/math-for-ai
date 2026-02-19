@@ -2,6 +2,26 @@
 
 ---
 
+## What This Concept Is Really About
+
+When you solve a linear equation, you are not just "finding x."
+
+You are determining how two linear rules relate to each other.
+
+Every equation of the form:
+
+```
+ax + b = cx + d
+```
+
+represents two linear expressions being compared. When we solve it, we are trying to determine whether those two expressions intersect once, never intersect, or are actually the same expression written differently.
+
+These three possibilities are not random patterns. They are structural outcomes forced by how linear expressions behave.
+
+This document explains why those three outcomes are the only ones possible — and more importantly, why each one happens.
+
+---
+
 ## 🧠 Before We Solve — A Real Question
 
 As you read this, you might think:
