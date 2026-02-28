@@ -1,5 +1,4 @@
-# 📐 The Geometry of Lines: A Two-Part Masterclass on Intercepts
-
+# 📐 Two Equations, One Truth: A Deep Dive into Intercepts
 > *"Mathematics is not about numbers, equations, or algorithms — it is about understanding."*
 > — William Paul Thurston
 
