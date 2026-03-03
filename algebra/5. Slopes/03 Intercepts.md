@@ -16,6 +16,40 @@ This is a two-part journey. In **Part I**, we'll meet our first equation and unc
 
 ---
 
+## 🧠 The Rule — And Why It's True
+
+Yes: the x-intercept is found by setting $y = 0$, and the y-intercept by setting $x = 0$. But don't just memorize that — understand *why*.
+
+### Why x-intercept ⇒ set $y = 0$
+
+The x-axis is defined as all points where the vertical coordinate is zero. Every point on it looks like $(x, 0)$. So when a line crosses the x-axis, its $y$-value at that crossing *must* be zero. That's not a rule someone invented — it's the definition of the x-axis itself.
+
+### Why y-intercept ⇒ set $x = 0$
+
+The y-axis is defined as all points where the horizontal coordinate is zero. Every point on it looks like $(0, y)$. So to find where a line hits the y-axis, you force $x = 0$ and see what $y$ must be.
+
+### Visual Reminder
+
+| Axis | Constraint |
+|------|------------|
+| Horizontal (x-axis) | $y = 0$ |
+| Vertical (y-axis) | $x = 0$ |
+
+### ⚠️ The Classic Mix-Up
+
+If someone tells you *"find the x-intercept by setting $x = 0$"* — that's wrong. Setting $x = 0$ gives you a point **on the y-axis**, not the x-axis. Mix these up and your graph will be flipped.
+
+### One Level Deeper: Axes as Constraint Lines
+
+This works because axes are themselves equations:
+
+- The **x-axis** is the solution set of $y = 0$
+- The **y-axis** is the solution set of $x = 0$
+
+When we set one variable to zero, we're forcing our equation to intersect that constraint line. Finding an intercept isn't a trick — it's solving a tiny system of two equations at once.
+
+---
+
 # 🏛️ Part I — The Slope-Intercept Story
 ### *"When the equation shows you where it lives"*
 
