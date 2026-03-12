@@ -31,7 +31,6 @@ Imagine you are standing before a **mountain landscape**. The terrain rises and 
 
 ---
 
-![Peaks and Valleys: Relative vs Absolute Extrema](peaks_and_valleys.png)
 <img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/042cf0a6-6929-494e-8054-5a7f8d9c5c49" />
 
 
