@@ -136,6 +136,8 @@ From one equation, you extracted everything:
 - ✅ The overall shape → upward-opening U
 
 > *"This is not graphing. This is structure extraction — reading an equation the way an engineer reads a schematic, not the way a student reads a problem."*
+---
+<img width="2752" height="1536" alt="unnamed (1)" src="https://github.com/user-attachments/assets/0c96d903-945c-4719-b75d-42b5c8403e45" />
 
 ---
 
